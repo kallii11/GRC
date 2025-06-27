@@ -25,11 +25,11 @@ Exemplo real:
 Quando um sistema cai, o time de TI segue as práticas ITIL para registrar o incidente, investigar, resolver e depois aplicar lições aprendidas para evitar repetições.
 
 
-# Aspecto Geral  
+**Aspecto Geral**    
 
-Foco          →  Gestão de serviços de TI  	
-Origem        →	 Reino Unido  	
-Tipo	      →  Boas práticas  	
-Aplicação     →  Melhoria contínua dos serviços de TI  
-Certificação  →	 Sim → ex. ITIL Foundation   
+- Foco:         Gestão de serviços de TI    	
+- Origem:       Reino Unido    	
+- Tipo:         Boas práticas    	
+- Aplicação:    Melhoria contínua dos serviços de TI    
+- Certificação: Sim → ex. ITIL Foundation     
 
